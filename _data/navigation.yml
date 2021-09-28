@@ -4,7 +4,7 @@ main:
     url: https://jeon4.github.io/
 
    - title: "Category"
-     url: https://jeon4.github.io/categories/
+     url: categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
