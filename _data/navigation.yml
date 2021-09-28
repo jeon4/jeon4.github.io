@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: https://jeon4.github.io/
+  \- title: "Home"
+  url: https://jeon4.github.io/
 
-   - title: "Category"
-     url: categories/
+  \- title: "Category"
+  url: https://jeon4.github.io/categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
