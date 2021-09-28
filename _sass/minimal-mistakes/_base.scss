@@ -126,6 +126,8 @@ blockquote {
 /* links */
 
 a {
+  /*제목 하이퍼링크*/
+  text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }
