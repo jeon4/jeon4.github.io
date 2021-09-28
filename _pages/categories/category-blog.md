@@ -1,9 +1,9 @@
 ---
-title: "blog 관련"
-permalink: /categories/blog/
+title: "Malware"
+permalink: /categories/Malware/
 layout: category
 author_profile: true
-taxonomy: blog
+taxonomy: Malware
 ---
 
-blog 관련이에요.
+예시
