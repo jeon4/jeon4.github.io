@@ -16,5 +16,4 @@ last_modified_at: 2021-09-29
 published: true
 ---
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+안녕하세요
