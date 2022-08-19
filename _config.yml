@@ -103,7 +103,10 @@ analytics:
 author:
   name             : "주혁2"
   avatar           : "/assets/images/cat.jpg"
-  bio              : "개발과 정보보안 사이<br>그 어딘가<br>"
+  bio              : "컴퓨터공학과 졸업<br>
+                      정보보안 업무 수행 중<br>
+                      개발과 정보보안 사이<br>
+                      그 어딘가<br>"
   location         : "gasan"
   email            : #"juhyeok95@naver.com"
   links:
