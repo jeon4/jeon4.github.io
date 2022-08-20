@@ -3,9 +3,9 @@ title:  "제목"
 excerpt: "블로그 시작"
 
 categories:
-  - Malware
+  - etc
 tags:
-  - Malware
+  - etc
 
 toc: true
 toc_sticky: true
