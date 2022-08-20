@@ -1,5 +1,5 @@
 ---
-title:  "제목"
+title:  "첫 게시물"
 excerpt: "블로그 시작"
 
 categories:
