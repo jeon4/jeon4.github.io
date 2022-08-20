@@ -1,9 +1,9 @@
 ---
-title: "Malware"
-permalink: /categories/Malware/
+title: "develop"
+permalink: /categories/develop/
 layout: category
 author_profile: true
-taxonomy: Malware
+taxonomy: develop
 ---
 
 예시
